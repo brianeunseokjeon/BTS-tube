@@ -1,5 +1,5 @@
-# BTS-tube
-BTS tube
+# ARMY-tube
+ARMY tube
 
 1.개인정보의 처리 목적
 
